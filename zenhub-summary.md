@@ -1,0 +1,3 @@
+Zenhub is a project management tool that helps with managing issues, sprints, and epics. It helps with visualizing to help keep things organized. It also works really well with GitHub and allows for teams to work together and keep track of progress.
+
+This can be usefule in software engineering because it can help improve collaboration. It can also help in prioritizing tasks that need to be done. It allows for teams to be able to work together and see what work is being done and what work still needs to be done. 
